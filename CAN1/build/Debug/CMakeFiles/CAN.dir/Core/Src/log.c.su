@@ -1,0 +1,6 @@
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:10:6:log_init	8	static
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:16:6:log_print	16	static
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:22:6:log_print_u32_hex	32	static
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:38:6:log_print_u8_hex	24	static
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:50:6:log_print_u32_dec	32	static
+/home/nguyentiem/Embedded/stm32f103/CAN/CAN1/Core/Src/log.c:69:6:log_println	16	static
